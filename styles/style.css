@@ -276,6 +276,7 @@
 
 .footer {
   margin-top: 180px;
+  padding: 0 50px 82px 50px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: start;
@@ -290,11 +291,6 @@
 
 .footer__address {
   justify-self: start;
-  margin-left: 50px;
-}
-
-.social_links {
-  margin-right: 50px;
 }
 
 .footer_links-list {
